@@ -1,0 +1,12 @@
+G:\.Net Projects\WEB-API\WebApi\EmployeeDataLibrary\bin\Debug\EmployeeDataLibrary.dll.config
+G:\.Net Projects\WEB-API\WebApi\EmployeeDataLibrary\bin\Debug\EmployeeDataLibrary.dll
+G:\.Net Projects\WEB-API\WebApi\EmployeeDataLibrary\bin\Debug\EmployeeDataLibrary.pdb
+G:\.Net Projects\WEB-API\WebApi\EmployeeDataLibrary\bin\Debug\EntityFramework.dll
+G:\.Net Projects\WEB-API\WebApi\EmployeeDataLibrary\bin\Debug\EntityFramework.SqlServer.dll
+G:\.Net Projects\WEB-API\WebApi\EmployeeDataLibrary\bin\Debug\EntityFramework.xml
+G:\.Net Projects\WEB-API\WebApi\EmployeeDataLibrary\bin\Debug\EntityFramework.SqlServer.xml
+G:\.Net Projects\WEB-API\WebApi\EmployeeDataLibrary\obj\Debug\EmployeeDataLibrary.csprojAssemblyReference.cache
+G:\.Net Projects\WEB-API\WebApi\EmployeeDataLibrary\obj\Debug\EmployeeDataLibrary.csproj.CoreCompileInputs.cache
+G:\.Net Projects\WEB-API\WebApi\EmployeeDataLibrary\obj\Debug\EmployeeDataLibrary.csproj.CopyComplete
+G:\.Net Projects\WEB-API\WebApi\EmployeeDataLibrary\obj\Debug\EmployeeDataLibrary.dll
+G:\.Net Projects\WEB-API\WebApi\EmployeeDataLibrary\obj\Debug\EmployeeDataLibrary.pdb

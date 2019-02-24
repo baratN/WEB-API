@@ -1,0 +1,9 @@
+G:\.Net Projects\WEB-API\WebApi\EmployeeLibrary\bin\Debug\netstandard2.0\EmployeeLibrary.deps.json
+G:\.Net Projects\WEB-API\WebApi\EmployeeLibrary\bin\Debug\netstandard2.0\EmployeeLibrary.dll
+G:\.Net Projects\WEB-API\WebApi\EmployeeLibrary\obj\Debug\netstandard2.0\EmployeeLibrary.csprojAssemblyReference.cache
+G:\.Net Projects\WEB-API\WebApi\EmployeeLibrary\obj\Debug\netstandard2.0\EmployeeLibrary.csproj.CoreCompileInputs.cache
+G:\.Net Projects\WEB-API\WebApi\EmployeeLibrary\obj\Debug\netstandard2.0\EmployeeLibrary.AssemblyInfoInputs.cache
+G:\.Net Projects\WEB-API\WebApi\EmployeeLibrary\obj\Debug\netstandard2.0\EmployeeLibrary.AssemblyInfo.cs
+G:\.Net Projects\WEB-API\WebApi\EmployeeLibrary\bin\Debug\netstandard2.0\EmployeeLibrary.pdb
+G:\.Net Projects\WEB-API\WebApi\EmployeeLibrary\obj\Debug\netstandard2.0\EmployeeLibrary.dll
+G:\.Net Projects\WEB-API\WebApi\EmployeeLibrary\obj\Debug\netstandard2.0\EmployeeLibrary.pdb
